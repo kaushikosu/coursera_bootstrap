@@ -55,7 +55,7 @@ p {
 
 @media(min-width: 992px){
 	section {
-		width: 33.333%;
+		width: 32.333%;
 	}
 }
 
@@ -65,13 +65,13 @@ p {
 	}
 
 	.s3{
-		width: 100%;
+		width: 98%;
 	}
 } 
 
 @media(max-width: 767px){
 	section {
-		width: 100%;
+		width: 98%;
 	}
 }
 
