@@ -23,7 +23,6 @@ section {
 	opacity: 0.9;
 	overflow: scroll;
 	margin: 5px;
-	box-sizing: margin-box;
 }
 
 h3 {
